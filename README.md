@@ -1,6 +1,6 @@
 Project Overview
 
-This case study focuses on analyzing historical sales data from Bright Coffee Shop to support the newly appointed CEO in making data-driven business decisions aimed at increasing revenue and improving product performance. The objective was to extract meaningful insight to help us understand the perfomance of the shops and know where to improve to better production.
+This case study focuses on analyzing historical sales data for 6 months from Bright Coffee Shop to support the newly appointed CEO in making data-driven business decisions aimed at increasing revenue and improving product performance. The objective was to extract meaningful insight to help us understand the perfomance of the shops and know where to improve to better production.
 
 Key Insights
 
